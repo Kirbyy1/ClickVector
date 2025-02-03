@@ -19,7 +19,10 @@
 
 ## 🛠️ How It Works  
 
-1. **Record**  
+**Record**  
    - Hover over UI element  
    - Press hotkey to save position (name it "Login Button")  
 
+
+“Bot queued me for Flex so much, my teammates think I’m a bot. They’re not wrong.
+- Human? Question Mark
