@@ -1,7 +1,7 @@
 # ClickVector - Desktop Automation Tool   
 **Stop guessing pixels. Automate any resizable UI in 3 clicks.**  
 
-![Demo](demo.gif) *Capturing positions in action*
+![Demo](https://raw.githubusercontent.com/Kirbyy1/ClickVector/refs/heads/main/preview.png)) *Capturing positions in action*
 
 ---
 
