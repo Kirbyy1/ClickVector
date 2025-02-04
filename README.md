@@ -1,3 +1,6 @@
+![Logo](https://raw.githubusercontent.com/Kirbyy1/ClickVector/b2c9ca082744a73b2103e5aa1bd6446361f2b5da/logo.svg)
+
+
 # ClickVector - Desktop Automation Tool   
 **Stop guessing pixels. Automate any resizable UI in 3 clicks.**  
 
